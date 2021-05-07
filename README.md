@@ -1,7 +1,7 @@
 # popup-pip
 Simple Tkinter GUI to quickly update PIP and installed packages on Windows<br>
 <p> Just run <br>
-  ```python:
+  ```python
 python popup_pip.py
 ```
 <p>
